@@ -1,18 +1,17 @@
-![GTKN_egXcAAXDxT](https://github.com/user-attachments/assets/28ff1a66-e7ef-4ec4-adc5-6d1df18c853f)
+![GTKN_egXcAAXDxT](https://github.com/user-attachments/assets/9bca7b9e-da4b-4136-b3f4-ca5b55802ec4)
 
 # Assisterr Incentivized Testnet
-
 
 ## Join Testnet
 https://build.assisterr.ai/?ref=66b533f4f92dab2f27784a6d
 
-## Auto daily claim
+## Optional: Auto daily claim
 > if only you are using a windows server you can use this
 
 1- In your browser, Press `F12` or `CTRL+SHIFT+I` to open **Developer window**, You can Write anything in `Console` tab
 * Make sure you are in your [assisterr dashboard](https://build.assisterr.ai/dashboard) (daily claim page) when openning Developer window
 
-![Screenshot_169](https://github.com/user-attachments/assets/bd66d7f8-b80e-4f65-b8b2-5f6ed9e1775b)
+![Screenshot_170](https://github.com/user-attachments/assets/ea984ea1-1ad3-409e-a18f-f93cfd7b3cd0)
 
 2- To allow pasting codes, write: `allow pasting`
 
